@@ -728,11 +728,6 @@ body {
 .menu-side-header__item:last-child {
   margin-left: 78px; }
 
-.menu-side-header__item:hover {
-  transform: scale(0.95);
-  transition: transform 0.2s ease-in-out;
-  opacity: 0.5; }
-
 .menu-side-main__item {
   margin-left: 24px; }
 
@@ -757,7 +752,7 @@ body {
   content: "";
   display: inline-block;
   width: 4px;
-  height: 32px;
+  height: 24px;
   margin-right: 20px;
   background-image: url(./static/highlight.svg); }
 
